@@ -8,9 +8,7 @@ import time
 import numpy as np
 import json
 from pprint import pprint
-from datetime import date
-from datetime import datetime
-from datetime import timedelta
+from datetime import date, datetime, timedelta
 import dateutil.parser
 #reload(sys)
 #sys.setdefaultencoding('utf-8')
@@ -120,12 +118,6 @@ def url_monitor():
       with open(snapshot_file, 'w') as outfile:
           json.dump(snapshot_data, outfile, encoding='utf-8', indent=2)
 
-      #if 'stock available' in stock_info[0]:
-      #  upd_msg += "Item in stock: "+item_name+"\n"
-      #  upd_msg += "URL: "+url_map[item_name]+"\n"
-      #  del url_map[item_name]
-      #else:
-      #  print(url_map[item_name]+ ' is not available')
   except UserWarning as w:
     print(w)
   except Exception as e:
@@ -136,7 +128,7 @@ def url_monitor():
     #pprint(data)
   if len(upd_msg) > 0:
     print("(not) sending mail:\n"+upd_msg)
-    #print liftsnapshot
+    #pprint liftsnapshot
     #mailout(upd_msg.encode(sys.stdout.encoding, errors='replace'))
 
   
