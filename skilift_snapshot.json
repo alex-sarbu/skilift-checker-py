@@ -1,0 +1,146 @@
+{
+  "date": "2022-02-21T11:05:00.004125", 
+  "count": 4, 
+  "snapshot": {
+    "L_60813": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Zirbenlift I"
+    }, 
+    "L_60810": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "Panoramalift"
+    }, 
+    "L_60814": {
+      "status": "open", 
+      "availability": 0.25, 
+      "title": "Marendalmlift I"
+    }, 
+    "L_6083": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "8er Schnee-Express (beheizbar)"
+    }, 
+    "L_6082": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Hochzillertal III"
+    }, 
+    "L_6081": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Hochzillertal I + II"
+    }, 
+    "L_6087": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "4er Wedelexpress"
+    }, 
+    "L_6086": {
+      "status": "closed", 
+      "availability": 0.5, 
+      "title": "Wimbachexpress (10er Gondel)"
+    }, 
+    "L_6085": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "6er Neuh\u00fcttenbahn"
+    }, 
+    "L_6084": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "6er Sonnenjet"
+    }, 
+    "L_6065": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Onkeljochlift"
+    }, 
+    "L_6064": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Onkeljochbahn"
+    }, 
+    "L_6067": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "M\u00f6sllift"
+    }, 
+    "L_6088": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "4er Topjet"
+    }, 
+    "L_6061": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "I Spieljochbahn"
+    }, 
+    "L_6063": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Panoramabahn Geols"
+    }, 
+    "L_6062": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "II Spieljochbahn"
+    }, 
+    "L_60822": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "6er Mizunbahn (beheizbar)"
+    }, 
+    "L_60821": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "8er Kristall- Express (beheizbar)"
+    }, 
+    "L_6089": {
+      "status": "closed", 
+      "availability": 0.25, 
+      "title": "2er \u00d6felerbahn"
+    }, 
+    "L_6066": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Arzjochsesselbahn"
+    }, 
+    "L_6076": {
+      "status": "closed", 
+      "availability": 0.0, 
+      "title": "Pfaffenb\u00fchel II Schlepplift"
+    }, 
+    "L_6077": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "Pfaffenb\u00fchel III Schlepplift"
+    }, 
+    "L_6074": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "6er Waidoffen (beheizbar)"
+    }, 
+    "L_6075": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "2er Pfaffenb\u00fchel Sessellift"
+    }, 
+    "L_6072": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "6er KSB Holzalm"
+    }, 
+    "L_6073": {
+      "status": "closed", 
+      "availability": 0.75, 
+      "title": "8er EUB Zillertal Shuttle"
+    }, 
+    "L_6071": {
+      "status": "open", 
+      "availability": 1.0, 
+      "title": "8er EUB 8er Jet Hochf\u00fcgen"
+    }
+  }
+}
