@@ -36,6 +36,8 @@ try:
   sender = conf.get('sender')
   destination = conf.get('destination')
   
+  webhook_url = conf.get('webhook_url')
+  
 except Exception as e:
   print(e)
   #mailout('Could not retrieve stock item')
@@ -69,6 +71,12 @@ def mailout(content):
   except:
       sys.exit( "mail failed; unknown error" ) # give a error message
 
+def send_webhook(content):
+  try:
+    r = requests.post(webhook_url, json={"type": "message", "text": content})
+  except Exception as e:
+    print 'could not post to webhook'
+    print(e)
 
 def url_monitor():
   upd_msg = ""
@@ -124,10 +132,12 @@ def url_monitor():
     print(e)
     #mailout('Could not retrieve stock item')
     print('Error processing request')
-    upd_msg += e
+    #upd_msg += e
+    send_webhook("Help, I'm having trouble: " + repr(e))
     #pprint(data)
   if len(upd_msg) > 0:
     print("(not) sending mail:\n"+upd_msg)
+    send_webhook(upd_msg)
     #pprint liftsnapshot
     #mailout(upd_msg.encode(sys.stdout.encoding, errors='replace'))
 

@@ -1,6 +1,6 @@
 {
-  "date": "2022-02-21T11:05:00.004125", 
-  "count": 4, 
+  "date": "2022-02-24T11:05:00.003998", 
+  "count": 7, 
   "snapshot": {
     "L_60813": {
       "status": "open", 
@@ -9,12 +9,12 @@
     }, 
     "L_60810": {
       "status": "closed", 
-      "availability": 0.75, 
+      "availability": 0.42857142857142855, 
       "title": "Panoramalift"
     }, 
     "L_60814": {
       "status": "open", 
-      "availability": 0.25, 
+      "availability": 0.5714285714285714, 
       "title": "Marendalmlift I"
     }, 
     "L_6083": {
@@ -38,18 +38,18 @@
       "title": "4er Wedelexpress"
     }, 
     "L_6086": {
-      "status": "closed", 
-      "availability": 0.5, 
+      "status": "open", 
+      "availability": 0.7142857142857143, 
       "title": "Wimbachexpress (10er Gondel)"
     }, 
     "L_6085": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "6er Neuh\u00fcttenbahn"
     }, 
     "L_6084": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "6er Sonnenjet"
     }, 
     "L_6065": {
@@ -68,8 +68,8 @@
       "title": "M\u00f6sllift"
     }, 
     "L_6088": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "4er Topjet"
     }, 
     "L_6061": {
@@ -99,7 +99,7 @@
     }, 
     "L_6089": {
       "status": "closed", 
-      "availability": 0.25, 
+      "availability": 0.14285714285714285, 
       "title": "2er \u00d6felerbahn"
     }, 
     "L_6066": {
@@ -123,18 +123,18 @@
       "title": "6er Waidoffen (beheizbar)"
     }, 
     "L_6075": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "2er Pfaffenb\u00fchel Sessellift"
     }, 
     "L_6072": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "6er KSB Holzalm"
     }, 
     "L_6073": {
-      "status": "closed", 
-      "availability": 0.75, 
+      "status": "open", 
+      "availability": 0.8571428571428571, 
       "title": "8er EUB Zillertal Shuttle"
     }, 
     "L_6071": {

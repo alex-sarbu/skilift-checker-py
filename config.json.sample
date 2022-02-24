@@ -3,5 +3,6 @@
   "user": "",
   "password": "",
   "sender": "",
-  "destination": [""]
+  "destination": [""],
+  "webhook_url": ""
 }
