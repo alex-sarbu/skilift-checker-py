@@ -76,7 +76,7 @@ def send_webhook(content):
     r = requests.post(webhook_url, json={"type": "message", "text": content})
   except Exception as e:
     print 'could not post to webhook'
-    print(e)
+    print repr(e)
 
 def url_monitor():
   upd_msg = ""

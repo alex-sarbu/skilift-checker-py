@@ -1,6 +1,6 @@
 {
-  "date": "2022-02-24T11:05:00.003998", 
-  "count": 7, 
+  "date": "2022-03-08T11:05:00.004163", 
+  "count": 19, 
   "snapshot": {
     "L_60813": {
       "status": "open", 
@@ -8,18 +8,18 @@
       "title": "Zirbenlift I"
     }, 
     "L_60810": {
-      "status": "closed", 
-      "availability": 0.42857142857142855, 
+      "status": "open", 
+      "availability": 0.5789473684210527, 
       "title": "Panoramalift"
     }, 
     "L_60814": {
       "status": "open", 
-      "availability": 0.5714285714285714, 
+      "availability": 0.7368421052631579, 
       "title": "Marendalmlift I"
     }, 
     "L_6083": {
       "status": "open", 
-      "availability": 1.0, 
+      "availability": 0.9473684210526315, 
       "title": "8er Schnee-Express (beheizbar)"
     }, 
     "L_6082": {
@@ -39,17 +39,17 @@
     }, 
     "L_6086": {
       "status": "open", 
-      "availability": 0.7142857142857143, 
+      "availability": 0.8947368421052632, 
       "title": "Wimbachexpress (10er Gondel)"
     }, 
     "L_6085": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "6er Neuh\u00fcttenbahn"
     }, 
     "L_6084": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "6er Sonnenjet"
     }, 
     "L_6065": {
@@ -59,7 +59,7 @@
     }, 
     "L_6064": {
       "status": "open", 
-      "availability": 1.0, 
+      "availability": 0.9473684210526315, 
       "title": "Onkeljochbahn"
     }, 
     "L_6067": {
@@ -69,7 +69,7 @@
     }, 
     "L_6088": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "4er Topjet"
     }, 
     "L_6061": {
@@ -88,8 +88,8 @@
       "title": "II Spieljochbahn"
     }, 
     "L_60822": {
-      "status": "open", 
-      "availability": 1.0, 
+      "status": "closed", 
+      "availability": 0.8947368421052632, 
       "title": "6er Mizunbahn (beheizbar)"
     }, 
     "L_60821": {
@@ -99,7 +99,7 @@
     }, 
     "L_6089": {
       "status": "closed", 
-      "availability": 0.14285714285714285, 
+      "availability": 0.05263157894736842, 
       "title": "2er \u00d6felerbahn"
     }, 
     "L_6066": {
@@ -109,7 +109,7 @@
     }, 
     "L_6076": {
       "status": "closed", 
-      "availability": 0.0, 
+      "availability": 0.3157894736842105, 
       "title": "Pfaffenb\u00fchel II Schlepplift"
     }, 
     "L_6077": {
@@ -124,17 +124,17 @@
     }, 
     "L_6075": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "2er Pfaffenb\u00fchel Sessellift"
     }, 
     "L_6072": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "6er KSB Holzalm"
     }, 
     "L_6073": {
       "status": "open", 
-      "availability": 0.8571428571428571, 
+      "availability": 0.9473684210526315, 
       "title": "8er EUB Zillertal Shuttle"
     }, 
     "L_6071": {
