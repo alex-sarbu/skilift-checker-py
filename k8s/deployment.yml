@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: skilift-checker
+  labels:
+    app: skilift-checker
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: skilift-checker
+  template:
+    metadata:
+      labels:
+        app: skilift-checker
+    spec:
+      containers:
+      - name: skilift-checker
+        image: piratecat.azurecr.io/skilift-checker-py:latest
+        resources:
+          limits:
+             memory: 100Mi
+             cpu: 100m
+      imagePullSecrets:
+        - name: piratecat-ps
